@@ -42,7 +42,7 @@ Led a team in the **Smart India Hackathon**, building a **Biometric Anti-Imperso
 
 ## 🤝 Let’s Connect!  
 - 🌐 **Portfolio Website**: [Coming Soon!]  
-- 💼 **LinkedIn**:(https://www.linkedin.com/in/ashrith-bejjarapu/) 
-- 🖥 **GitHub**: [github.com/your-username]((https://github.com/Ashrith012/Ashrith012))  
-- 📧 **Email**: [your-email@example.com](mailto:ashrithbejjarapu10@gmail.com)  
+- 💼 **LinkedIn**:https://www.linkedin.com/in/ashrith-bejjarapu/
+- 🖥 **GitHub**: https://github.com/Ashrith012/Ashrith012
+- 📧 **Email**: ashrithbejjarapu10@gmail.com  
 
